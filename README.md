@@ -21,13 +21,13 @@ Once the data is read from the SQLite DB, have used **Werkzeug Simple Cache** fo
 ##Front-end
 I have used the following libraries
 
-1. **_ Jquery UI Auto-Complete _** : for displaying the Movie Titles as a type-head drop down
+1. **_Jquery UI Auto-Complete_** : for displaying the Movie Titles as a type-head drop down
 
-2. **_ Jquery Async _** : for making AJAX calls to the REST API
+2. **_Jquery Async_** : for making AJAX calls to the REST API
 
-3. ** _ JSON2 _ ** : for parsing the JSON data
+3. **_JSON2_** : for parsing the JSON data
 
-4. **_ Google Maps JavaScript API v3 _** : for plotting the filming locations in a map
+4. **_Google Maps JavaScript API v3_** : for plotting the filming locations in a map
 
 ##TO-DO
 ###Back-End
