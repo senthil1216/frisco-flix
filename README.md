@@ -39,7 +39,12 @@ I have used the following libraries
 2. Bundle & Minify all the javascripts loaded in the client
 3. Move the inline-styles to a separate stylesheet
 
+###Unit-Test
+1. Unit Tests for JS code
+2. Unit Tests for REST API calls
+
 ##### Housekeeping
 1. Define jobs or admin pages which can load the data dynamically from the DATA SF API
 
+My Resume is at the AppEngine url [Senthil Sivasubramanian](http://root-node.appspot.com/me)
 
