@@ -49,7 +49,9 @@ I have used the following libraries
 My Resume is at the AppEngine url [Senthil Sivasubramanian](http://root-node.appspot.com/me)
 
 Other Projects:
+
 1. [Blogging Platform](https://github.com/senthil1216/root-node) : Developed a blogging platform using Flask Python framework and deployment using Google App Engine
+
 
 2. [Telemetry](https://github.com/senthil1216/telemetry)
 Developed Flask Python framework, this framework captures all user events from client side and sends the data to REST API exposed from server.
